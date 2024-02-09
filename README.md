@@ -4,7 +4,7 @@
 
 <p align="center"> <img  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
 
-# 💫 About Me:
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=Gauravdane20&icon=2&color=0)](https://visitcount.itsvg.in)
 🔭 I’m currently working on web development projects.<br>🌱 I’m currently learning react.js<br>💬 Ask me about Java, Javascript.
 
 
@@ -19,6 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdane20&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gauravdane20&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
