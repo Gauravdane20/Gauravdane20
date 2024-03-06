@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-<p align="centre"> <img  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
+<p align="center"> <img  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
 
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=Gauravdane20&icon=2&color=0)](https://visitcount.itsvg.in)
-- 🔭 I am currently searching for an entry-level position. Primarily looking for **Frontend, Backend** and **Full stack Development** roles.<br><br>🌱 I’m currently learning react.js<br><br>💬 Ask me about Java, Javascript.<br><br>- 👀 Interest: **Tecknologies🌐**<br><br>- 📫 How to reach me **gauravdane223@gmail.com**
+🔭 I am currently searching for an entry-level position. Primarily looking for **Frontend, Backend** and **Full stack Development** roles.<br><br>🌱 I’m currently learning react.js<br><br>💬 Ask me about Java, Javascript.<br><br> 👀 Interest: **Tecknologies🌐**<br><br>-📫 How to reach me **gauravdane223@gmail.com**
 
 
 ## 🌐 Socials:
